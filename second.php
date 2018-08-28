@@ -7,3 +7,4 @@
  */
 echo "Second file";
 echo "second file edited";
+echo "Changed copy";
