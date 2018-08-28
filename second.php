@@ -6,3 +6,4 @@
  * and open the template in the editor.
  */
 echo "Second file";
+echo "second file edited";
